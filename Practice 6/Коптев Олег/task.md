@@ -54,14 +54,40 @@ group by players.name, olympic_id;
 ```  
 4. В какой стране был наибольший процент игроков (из перечисленных в наборе данных), чьи имена начинались с гласной?  
 ```sql
-select countries.country_id
-from countries, players
-where players.name similar to '(A|E|I|O|U)%'
-  and countries.country_id = players.country_id
-group by countries.country_id
-order by count(1)
-desc limit 1
+select countries.name, qty_players_by_country_vowels.cnt * 100.0 / qty_players_by_country.cnt as percentage
+from countries, (
+        select players.country_id, count(players.country_id) as cnt
+        from players
+        group by players.country_id
+        order by count(players.country_id)
+        desc
+    ) as qty_players_by_country, (
+        select players.country_id, count(players.country_id) as cnt
+        from players
+        where players.name similar to '(A|E|I|O|U)%'
+        group by players.country_id
+        order by count(players.country_id)
+        desc
+    ) as qty_players_by_country_vowels
+where countries.country_id = qty_players_by_country.country_id
+      and qty_players_by_country.country_id = qty_players_by_country_vowels.country_id
+order by percentage desc, countries.country_id
+limit 1;
 ```  
 5.  Для Олимпийских игр 2000 года найдите 5 стран с минимальным соотношением количества групповых медалей к численности населения.  
 ```sql
+select countries.country_id
+from (
+    select players.country_id, count(players.country_id) as qty_group_medal
+    from olympics, events, results, players
+    where olympics.year = 2004
+        and events.olympic_id = olympics.olympic_id
+        and events.event_id = results.event_id
+        and events.is_team_event = 1
+        and results.player_id = players.player_id
+    group by players.country_id
+    ) as group_medals_by_countries, countries
+where group_medals_by_countries.country_id = countries.country_id
+order by group_medals_by_countries.qty_group_medal * 1.0 / countries.population
+limit 5;
 ```  
