@@ -1,0 +1,704 @@
+[
+  {
+    "resultMax" : 1643,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 1625,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "10000m Men"
+  },
+  {
+    "resultMax" : 1827,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 1817,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "10000m Women"
+  },
+  {
+    "resultMax" : 55,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 53,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Backstroke Men"
+  },
+  {
+    "resultMax" : 61,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 60,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Backstroke Women"
+  },
+  {
+    "resultMax" : 61,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 60,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Breaststroke Men"
+  },
+  {
+    "resultMax" : 68,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 66,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Breaststroke Women"
+  },
+  {
+    "resultMax" : 53,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 51,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Butterfly Men"
+  },
+  {
+    "resultMax" : 59,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 56,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Butterfly Women"
+  },
+  {
+    "resultMax" : 49,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 48,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Freestyle Men"
+  },
+  {
+    "resultMax" : 55,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 53,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "100m Freestyle Women"
+  },
+  {
+    "resultMax" : 13,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 12,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "100m Hurdles Women"
+  },
+  {
+    "resultMax" : 11,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 9,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "100m Men"
+  },
+  {
+    "resultMax" : 12,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 10,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "100m Women"
+  },
+  {
+    "resultMax" : 14,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 12,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "110m Hurdles Men"
+  },
+  {
+    "resultMax" : 897,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 883,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "1500m Freestyle Men"
+  },
+  {
+    "resultMax" : 215,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 212,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "1500m Men"
+  },
+  {
+    "resultMax" : 246,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 237,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "1500m Women"
+  },
+  {
+    "resultMax" : 118,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 114,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Backstroke Men"
+  },
+  {
+    "resultMax" : 132,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 128,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Backstroke Women"
+  },
+  {
+    "resultMax" : 133,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 129,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Breaststroke Men"
+  },
+  {
+    "resultMax" : 146,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 143,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Breaststroke Women"
+  },
+  {
+    "resultMax" : 117,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 114,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Butterfly Men"
+  },
+  {
+    "resultMax" : 129,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 125,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Butterfly Women"
+  },
+  {
+    "resultMax" : 107,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 104,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Freestyle Men"
+  },
+  {
+    "resultMax" : 119,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 118,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Freestyle Women"
+  },
+  {
+    "resultMax" : 121,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 117,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Individual Medley Men"
+  },
+  {
+    "resultMax" : 134,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 130,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "200m Individual Medley Women"
+  },
+  {
+    "resultMax" : 21,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 19,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "200m Men"
+  },
+  {
+    "resultMax" : 23,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 22,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "200m Women"
+  },
+  {
+    "resultMax" : 4802,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 4739,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "20km Walk Men"
+  },
+  {
+    "resultMax" : 5423,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 5345,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "20km Walk Women"
+  },
+  {
+    "resultMax" : 503,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 485,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "3000m Steeplechase Men"
+  },
+  {
+    "resultMax" : 227,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 220,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "400m Freestyle Men"
+  },
+  {
+    "resultMax" : 248,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 245,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "400m Freestyle Women"
+  },
+  {
+    "resultMax" : 49,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 47,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "400m Hurdles Men"
+  },
+  {
+    "resultMax" : 54,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 52,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "400m Hurdles Women"
+  },
+  {
+    "resultMax" : 256,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 248,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "400m Individual Medley Men"
+  },
+  {
+    "resultMax" : 278,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 273,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "400m Individual Medley Women"
+  },
+  {
+    "resultMax" : 45,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 43,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "400m Men"
+  },
+  {
+    "resultMax" : 50,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 49,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "400m Women"
+  },
+  {
+    "resultMax" : 198,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 193,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x100m Freestyle Relay Men"
+  },
+  {
+    "resultMax" : 221,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 215,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x100m Freestyle Relay Women"
+  },
+  {
+    "resultMax" : 216,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 210,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x100m Medley Relay Men"
+  },
+  {
+    "resultMax" : 245,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 237,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x100m Medley Relay Women"
+  },
+  {
+    "resultMax" : 39,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 37,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "ATH",
+    "name" : "4x100m Relay Men"
+  },
+  {
+    "resultMax" : 43,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 41,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "ATH",
+    "name" : "4x100m Relay Women"
+  },
+  {
+    "resultMax" : 433,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 427,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x200m Freestyle Relay Men"
+  },
+  {
+    "resultMax" : 479,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 473,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "SWI",
+    "name" : "4x200m Freestyle Relay Women"
+  },
+  {
+    "resultMax" : 181,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 175,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "ATH",
+    "name" : "4x400m Relay Men"
+  },
+  {
+    "resultMax" : 204,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 199,
+    "isTeamEvent" : 1,
+    "playersNumber" : 4,
+    "type" : "ATH",
+    "name" : "4x400m Relay Women"
+  },
+  {
+    "resultMax" : 817,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 794,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "5000m Men"
+  },
+  {
+    "resultMax" : 892,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 880,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "5000m Women"
+  },
+  {
+    "resultMax" : 13476,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 13126,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "50km Walk Men"
+  },
+  {
+    "resultMax" : 23,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 21,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "50m Freestyle Men"
+  },
+  {
+    "resultMax" : 25,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 24,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "50m Freestyle Women"
+  },
+  {
+    "resultMax" : 507,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 499,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "SWI",
+    "name" : "800m Freestyle Women"
+  },
+  {
+    "resultMax" : 106,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 104,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "800m Men"
+  },
+  {
+    "resultMax" : 117,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 116,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "800m Women"
+  },
+  {
+    "resultMax" : 8893,
+    "resultNotedIn" : "points",
+    "resultMin" : 8595,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Decathlon Men"
+  },
+  {
+    "resultMax" : 70,
+    "resultNotedIn" : "meters",
+    "resultMin" : 66,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Discus Throw Men"
+  },
+  {
+    "resultMax" : 69,
+    "resultNotedIn" : "meters",
+    "resultMin" : 65,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Discus Throw Women"
+  },
+  {
+    "resultMax" : 83,
+    "resultNotedIn" : "meters",
+    "resultMin" : 79,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Hammer Throw Men"
+  },
+  {
+    "resultMax" : 76,
+    "resultNotedIn" : "meters",
+    "resultMin" : 69,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Hammer Throw Women"
+  },
+  {
+    "resultMax" : 6952,
+    "resultNotedIn" : "points",
+    "resultMin" : 6424,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Heptathlon Women"
+  },
+  {
+    "resultMax" : 3,
+    "resultNotedIn" : "meters",
+    "resultMin" : 2,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "High Jump Men"
+  },
+  {
+    "resultMax" : 3,
+    "resultNotedIn" : "meters",
+    "resultMin" : 1,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "High Jump Women"
+  },
+  {
+    "resultMax" : 91,
+    "resultNotedIn" : "meters",
+    "resultMin" : 84,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Javelin Throw Men"
+  },
+  {
+    "resultMax" : 72,
+    "resultNotedIn" : "meters",
+    "resultMin" : 64,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Javelin Throw Women"
+  },
+  {
+    "resultMax" : 9,
+    "resultNotedIn" : "meters",
+    "resultMin" : 8,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Long Jump Men"
+  },
+  {
+    "resultMax" : 8,
+    "resultNotedIn" : "meters",
+    "resultMin" : 6,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Long Jump Women"
+  },
+  {
+    "resultMax" : 7931,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 7811,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Marathon Men"
+  },
+  {
+    "resultMax" : 8840,
+    "resultNotedIn" : "seconds",
+    "resultMin" : 8594,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Marathon Women"
+  },
+  {
+    "resultMax" : 6,
+    "resultNotedIn" : "meters",
+    "resultMin" : 5,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Pole Vault Men"
+  },
+  {
+    "resultMax" : 5,
+    "resultNotedIn" : "meters",
+    "resultMin" : 4,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Pole Vault Women"
+  },
+  {
+    "resultMax" : 22,
+    "resultNotedIn" : "meters",
+    "resultMin" : 21,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Shot Put Men"
+  },
+  {
+    "resultMax" : 21,
+    "resultNotedIn" : "meters",
+    "resultMin" : 19,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Shot Put Women"
+  },
+  {
+    "resultMax" : 18,
+    "resultNotedIn" : "meters",
+    "resultMin" : 17,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Triple Jump Men"
+  },
+  {
+    "resultMax" : 16,
+    "resultNotedIn" : "meters",
+    "resultMin" : 14,
+    "isTeamEvent" : 0,
+    "playersNumber" : -1,
+    "type" : "ATH",
+    "name" : "Triple Jump Women"
+  }
+]
