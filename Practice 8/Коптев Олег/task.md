@@ -65,4 +65,8 @@ create table Borrowing (
 ```
 
 ## Task 2
-https://github.com/OlegStanKoptev/db-hw-8-jdbc
+
+Project presents:
+Java Spring REST API for Books table with two migration scripts.  
+Connects to localhost:5432 by default (configurable at `src/main/resources/application.properties`)  
+[GitHub link to project](https://github.com/OlegStanKoptev/db-hw-8-jdbc)
